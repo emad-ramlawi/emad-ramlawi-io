@@ -22,4 +22,6 @@ Then:
 sudo /etc/init.d/apache2 reload
 ```
 
-dsdsd
+## myLib documentation
+[a www.medo.shhop](1.md)
+[a relative link](1.md)
